@@ -19,17 +19,19 @@ _target role_ position applying _two or three core competencies_.
 
 = Education
 #entry(
-  org: "Massachusetts Institute of Technology (MIT)",
-  location: "Cambridge, MA",
-  title: "Candidate for PhD in Urban Political Economy and Governance",
-  dates: "2006",
-  note: [Dissertation: Out of Control? Local Democracy Failure and Fiscal Control Boards],
+  org: "University Name",
+  location: "City, ST",
+  title: "Candidate for PhD in [Field]",
+  dates: "Expected YYYY",
+  note: [Dissertation: _Working title of your dissertation_],
 )
 
+// Group skills by category and rename the categories to fit the field. List concrete,
+// verifiable tools only — no soft skills, no self-rated proficiency bars.
 = Skills
-- *Programming:* Python, Julia, Java, R, SQL, JavaScript
-- *Software:* LabView, COMSOL, ImageJ
-- *Languages:* Spanish (native), English (fluent)
+- *Programming:* _languages you write unaided, strongest first_
+- *Software:* _tools, instruments or platforms you operate_
+- *Languages:* _language_ (native), _language_ (fluent)
 
 // Bullets follow MIT's P-A-R pattern: Project, Action, Result. Strong verb first,
 // a metric somewhere, max 2 lines, and each must read on its own. Open with a past-tense

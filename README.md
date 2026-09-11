@@ -4,6 +4,12 @@ A Typst template for a two-page PhD resume that follows [MIT CAPD](https://capd.
 suggested formatting rules. Blank, placeholder-filled, and meant to be filled in section by
 section — no content of your own is baked in.
 
+> **Not affiliated with MIT.** The formatting rules here are adapted from the publicly
+> available resume guidance of MIT Career Advising & Professional Development (CAPD). This is
+> an independent implementation, neither endorsed nor published by MIT, and the package name
+> refers only to the guidance it follows. The MIT License below is the standard permissive
+> software license and is unrelated to that guidance.
+
 ## What it enforces
 
 The formatting is not stylistic preference; it is MIT's stated guidance, so the defaults are
@@ -71,11 +77,11 @@ Or write the import yourself in any file:
 
 = Education
 #entry(
-  org: "Massachusetts Institute of Technology (MIT)",
-  location: "Cambridge, MA",
-  title: "Candidate for PhD in Urban Political Economy and Governance",
-  dates: "2006",
-  note: [Dissertation: Out of Control? Local Democracy Failure and Fiscal Control Boards],
+  org: "University Name",
+  location: "City, ST",
+  title: "Candidate for PhD in [Field]",
+  dates: "Expected YYYY",
+  note: [Dissertation: _Working title of your dissertation_],
 )
 
 = Experience
