@@ -1,6 +1,6 @@
 # mit-resume
 
-A Typst template for a two-page PhD resume that follows [MIT CAPD](https://capd.mit.edu/)'s
+A Typst template for a PhD resume that follows [MIT CAPD](https://capd.mit.edu/)'s
 suggested formatting rules. Blank, placeholder-filled, and meant to be filled in section by
 section — no content of your own is baked in.
 
