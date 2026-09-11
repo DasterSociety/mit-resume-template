@@ -32,20 +32,19 @@ _target role_ position applying _two or three core competencies_.
 - *Languages:* Spanish (native), English (fluent)
 
 // Bullets follow MIT's P-A-R pattern: Project, Action, Result. Strong verb first,
-// a metric somewhere, max 2 lines, and each must read on its own. The two below are
-// MIT's own verbatim examples — keep them as the standard to match.
+// a metric somewhere, max 2 lines, and each must read on its own. Open with a past-tense
+// verb like Developed, Engineered, Led, Designed, Automated — never "Responsible for".
 = Experience
 #entry(
-  org: "Impromec SA",
-  location: "Cochabamba, Bolivia",
-  title: "Project Engineer",
-  dates: [Nov 2011 -- Jan 2012],
+  org: "Organization Name",
+  location: "City, ST",
+  title: "Position Title",
+  dates: [Mon YYYY -- Mon YYYY],
 )[
-  - Developed an innovative method to quantify 3D growth plate orientation in the
-    proximal femur using MIMICS and MATLAB, in collaboration with 2 orthopedic
-    surgeons from the University of Oxford
-  - Engineered recombinant orthoreovirus expressing auto-cleaved p24 capsid protein
-    of HIV for vaccine development targeting gut-associated lymphoid tissue reservoirs
+  - Developed _the deliverable_ using _tools or methods_ to _address the problem_, improving
+    _the metric_ by _N_% over _the prior baseline_
+  - Led _the project or process_ across _N_ _experiments, sites or teams_, delivering
+    _the quantified outcome_ in collaboration with _N_ _collaborators_
 ]
 
 = Publications and Conferences
