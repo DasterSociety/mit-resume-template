@@ -17,7 +17,7 @@ floors rather than starting points:
 
 - **0.5 in margins** and **10.5 pt body text** — MIT's stated minimums. Shrinking either to
   win space defeats the point.
-- **Two pages maximum.** A PhD resume may run to two pages; a third is not a resume.
+- **One or two pages.** MIT allows either; a third is not a resume.
 - **Small-caps, ruled section headings** with a single consistent entry block for every
   organization, so Education, Experience and everything else align identically.
 - **No fixed section order.** MIT's rule is to list sections in order of importance *to the
